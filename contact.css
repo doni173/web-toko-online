@@ -1,0 +1,48 @@
+.navbar{
+  background-color: rgb(7, 58, 102);
+    
+    
+}
+.kontak-form{
+    align-items: center;
+    margin-top: 3cm;
+    margin-bottom: 265px;
+    background-color: aliceblue;
+    padding: 50px;
+    
+    }
+    
+    
+    .kontak-form .form-control {
+        align-items: center;
+        
+        margin: 10px 0;
+      }
+      .kontak-form .form-control:not(textarea) {
+        height: 35px;
+      }
+      
+    
+    
+    .kontak-form .submit-btn{
+        
+        background: rgb(7, 58, 102);
+        border-radius: 5px;
+        color: #ffffff;
+        font-weight: bold;
+        border: 0;
+        cursor: pointer;
+        transition: all 0.4s ease;
+        text-align: center;
+    }
+    
+
+
+    .footer{
+        background-color: rgb(7, 58, 102);
+        text-align: center;
+        color:white;
+        height: 40px;
+        margin-top: -3cm;
+    }
+   
