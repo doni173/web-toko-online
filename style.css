@@ -1,5 +1,9 @@
 .navbar{
-    background-color: rgb(7, 58, 102);
+    background-color:#132a75;
+
+    font-family: sans-serif;
+    font-size: 16px;
+    font-weight: 500;
     
 }
 .jumbotron-fluid{
@@ -33,7 +37,7 @@ section#education {
 .header{
     height: 500px;
     background-size: cover;
-    background-image: url("Untitled design.png");
+    background-image: url("img/Untitled design.png");
     text-align: center;
     padding: 200px;
 }
@@ -117,21 +121,20 @@ section#education {
 
 @media screen and ( max-width: 768px){
     .header{
-        height: 200px;
-        background-size: cover;
-        background-image: url("gambar/images.jpg");
+        height:250px;
+        background-image: url("Untitled\ design.png");
         text-align: center;
         padding: 50px;
         margin-bottom: 50px;
     }
     .header h1{
-        color: white;
-        font-size: 10px;
+        color: rgb(255, 255, 255);
+        font-size: 20px;
      }
     
     .header p{
-        color: white;
-        font-size: 20px;
+        color: rgb(255, 255, 255);
+        font-size: 15px;
     }   
     .header a{
         border-radius: 10px;
@@ -161,9 +164,9 @@ section#education {
         align-items: center;
         height: 200px;
         width: 150px;
-        margin-left: 10px;
+        margin-left: 20px;
         background-color: rgb(233, 228, 228);
-        margin-bottom: 20px;
+        margin-bottom: 40px;
         
     
     }
@@ -173,8 +176,8 @@ section#education {
     }
     
     .nama{
-        color: black
-        font-size: 25px;
+        color: black;
+        font-size: 15px;
         font-weight: 400;
         margin-left: 10px;
     }
@@ -198,4 +201,3 @@ section#education {
     }
    
 }
-    
